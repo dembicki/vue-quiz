@@ -1,3 +1,8 @@
 <template>
-  <h1>Hello from Header</h1>
+  <div>
+    <b-nav tabs>
+      <b-nav-item disabled><b>Quiz App</b></b-nav-item>
+      <b-nav-item disabled>Counter 1/10</b-nav-item>
+    </b-nav>
+  </div>
 </template>

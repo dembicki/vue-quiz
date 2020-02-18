@@ -1,3 +1,18 @@
 <template>
-  <h1>Hello from QuestionBox</h1>
+  <div>
+    <b-jumbotron>
+      <template v-slot:lead>
+        Question here
+      </template>
+
+      <hr class="my-4" />
+
+      <p>
+        List of answers
+      </p>
+
+      <b-button variant="primary" href="#">Submit</b-button>
+      <b-button variant="success" href="#">Next Question -> </b-button>
+    </b-jumbotron>
+  </div>
 </template>

@@ -14,4 +14,4 @@ npm run serve
 
 ## Project uses https://opentdb.com/ API to get list of questions and answers
 
-![alt screenshot]("https://github.com/dembicki/vue-quiz/blob/master/src/assets/Screenshot.png")
+![alt screenshot](https://github.com/dembicki/vue-quiz/blob/master/src/assets/Screenshot.png)

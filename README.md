@@ -11,3 +11,7 @@ npm install
 ```
 npm run serve
 ```
+
+## Project uses https://opentdb.com/ API to get list of questions and answers
+
+![alt screenshot]()
